@@ -1,2 +1,2 @@
 # -_-
-https://panovoleg.github.io/-_-/
+ https://panovoleg.github.io/Game-guess-the-number/
